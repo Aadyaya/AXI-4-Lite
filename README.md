@@ -49,8 +49,4 @@ Vivado Interface Integration: Built with standardized naming conventions (s_axi_
 
 
 📐 Signal Handshake Architecture
-
-<<<<<<< HEAD
-Data transfers on each channel occur exclusively when both the transmitter's VALID and the receiver's READY signals are active on a rising clock edge.
-=======
 Data transfers on each channel occur exclusively when both the transmitter's VALID and the receiver's READY signals are active on a rising clock edge.
