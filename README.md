@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AXI-4-LiteAXI4-Lite Memory-Mapped Register Interface
 =======
 # AXI-4-Lite
