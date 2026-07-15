@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # AXI-4-LiteAXI4-Lite Memory-Mapped Register Interface
 =======
 # AXI-4-Lite
 AXI4-Lite Memory-Mapped Register Interface
->>>>>>> b2d9d1e (Add README file)
 
 A fully compliant AXI4-Lite Slave Interface designed and implemented in SystemVerilog for AMD/Xilinx Vivado-based SoC designs. This project demonstrates a robust, byte-addressable hardware register bank that integrates seamlessly with modern master devices (such as RISC-V or ARM Cortex processors).
 
@@ -51,11 +49,4 @@ Vivado Interface Integration: Built with standardized naming conventions (s_axi_
 
 
 📐 Signal Handshake Architecture
-
-<<<<<<< HEAD
 Data transfers on each channel occur exclusively when both the transmitter's VALID and the receiver's READY signals are active on a rising clock edge.
-=======
-Data transfers on each channel occur exclusively when both the transmitter's VALID and the receiver's READY signals are active on a rising clock edge:
-
-
->>>>>>> b2d9d1e (Add README file)
