@@ -8,7 +8,7 @@
 // self-check done/error/rdata_out against what we expect.
 //=====================================================================
 
-module axi_master_tb (
+module axi_master_tb;
 
     localparam int DATA_WIDTH = 32;
     localparam int ADDR_WIDTH = 4;
